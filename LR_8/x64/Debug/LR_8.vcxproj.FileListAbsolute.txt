@@ -1,0 +1,7 @@
+C:\Users\vikto\source\repos\OOP\LR_8\LR_8\x64\Debug\LR_8.vcxproj.AssemblyReference.cache
+C:\Users\vikto\source\repos\OOP\LR_8\LR_8\x64\Debug\LR_8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\vikto\source\repos\OOP\LR_8\LR_8\x64\Debug\LR8.StartMenu.resources
+C:\Users\vikto\source\repos\OOP\LR_8\LR_8\x64\Debug\LR_8.vcxproj.GenerateResource.cache
+C:\Users\vikto\source\repos\OOP\LR_8\LR_8\x64\Debug\LR8.MiniGame.resources
+C:\Users\vikto\source\repos\OOP\LR_8\LR_8\x64\Debug\LR8.AboutProgram.resources
+C:\Users\vikto\source\repos\OOP\LR_8\LR_8\x64\Debug\LR8.Program.resources
